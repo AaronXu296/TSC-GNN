@@ -18,9 +18,9 @@ The following table shows the performance comparison on averaged travel time.
 | Neighbor RL | 248.11      | 181.75240.68       |
 
 
-<img src="https://github.com/AaronXu296/TSC-GNN/blob/main/con_bi.png" width = "400" height = "200" alt="Grid-6×6-Bi" align=center /><img src="https://github.com/AaronXu296/TSC-GNN/blob/main/con_uni.png" width = "400" height = "200" alt="" align=center />
+<img src="https://github.com/AaronXu296/TSC-GNN/blob/main/con_bi.png" width = "400" height = "200" alt="Grid-6×6-Bi" align=center /> <img src="https://github.com/AaronXu296/TSC-GNN/blob/main/con_uni.png" width = "400" height = "200" alt="" align=center />
 
-<img src="https://github.com/AaronXu296/TSC-GNN/blob/main/ablation-bi.png" width = "400" height = "200" alt="" align=center /><img src="https://github.com/AaronXu296/TSC-GNN/blob/main/ablation-uni.png" width = "400" height = "200" alt="" align=center />
+<img src="https://github.com/AaronXu296/TSC-GNN/blob/main/ablation-bi.png" width = "400" height = "200" alt="" align=center /> <img src="https://github.com/AaronXu296/TSC-GNN/blob/main/ablation-uni.png" width = "400" height = "200" alt="" align=center />
 
 Note: VGAN in the figure is the model name before TSC-GNN is renamed
 
