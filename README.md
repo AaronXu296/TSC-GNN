@@ -1,5 +1,5 @@
 # TSC-GNN
-The supplement of experiment
+The supplement of the experiment
 
 ## Performance comparison on averaged travel time
 
