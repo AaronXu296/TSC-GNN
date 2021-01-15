@@ -1,5 +1,5 @@
 # TSC-GNN
-Detail of experiment of TSC-GNN
+The supplement of experiment
 
 ## Performance comparison on averaged travel time
 
